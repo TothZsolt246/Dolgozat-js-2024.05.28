@@ -1,0 +1,7 @@
+.sajat-div {
+    width: 200px;
+    height: 200px;
+    background-image: url('képek/virág.jpg'); 
+    background-size: cover;
+    cursor: pointer;
+}
